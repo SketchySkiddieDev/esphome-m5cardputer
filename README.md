@@ -14,11 +14,4 @@ This repo contain [EPSHome](https://esphome.io/) configuration Files (yaml) for 
 
 * Microphone
 * Voice Assistant 
-
-## Not Working Yet
-
-* Keyboard
-
-
-
-
+* Keyboard 
